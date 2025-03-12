@@ -5,5 +5,6 @@ Implementing Machine Learning Models from Scratch
 - Linear Regression
 - Logistic Regression
 - Naive Bayes
+- KNN
 
   
