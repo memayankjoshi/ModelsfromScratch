@@ -6,6 +6,7 @@ Implementing Machine Learning Models from Scratch
 - Logistic Regression
 - Naive Bayes
 - KNN
-- SVM
+- Decission Tree
+
 
   
