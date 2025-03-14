@@ -7,6 +7,7 @@ Implementing Machine Learning Models from Scratch
 - Naive Bayes
 - KNN
 - Decission Tree
+- Random Forest
 
 
   
