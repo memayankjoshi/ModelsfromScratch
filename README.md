@@ -8,6 +8,7 @@ Implementing Machine Learning Models from Scratch
 - KNN
 - Decission Tree
 - Random Forest
+- AdaBoost 
 
 
   
